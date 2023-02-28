@@ -1,6 +1,8 @@
 {
   "name": "testblock2",
   "type": "function",
+  "blockId":"i_oXy9Y-Ax0e68mBiLtNA",
+
   "source": {
     "https": "https://github.com/grgshiji/testblock2",
     "ssh": "git@github.com:grgshiji/testblock2.git"
